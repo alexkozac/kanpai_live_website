@@ -25,10 +25,11 @@ body {
 }
 
 .container h2 {
-    color: black;
+    color: var(--golden--);
     text-align: center;
     font-size: 2rem;
 }
+
 
 .date {
     color: #000;
@@ -121,7 +122,7 @@ nav a:hover {
   }
   
   #featured {
-    background-color: var(--light_pink--)
+    background-image: url("img/60.jpg");
   }
   
   .featured-content {
@@ -466,12 +467,12 @@ nav a:hover {
     width: 300px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     z-index: 1;
-    position: relative; /* Added to allow positioning of the image */
+    position: relative; 
   }
   
   .form-image {
     width: 100%;
-    margin-top: 10px; /* Adjust the margin as needed */
+    margin-top: 10px; 
   }
   
   label {
