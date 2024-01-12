@@ -1,10 +1,11 @@
 
 
 body {
-    font-family: 'Arial', sans-serif;
+    
     margin: 0;
     padding: 0;
     background-color: #bbb3b3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
   :root{
@@ -28,6 +29,7 @@ body {
     color: var(--golden--);
     text-align: center;
     font-size: 2rem;
+    
 }
 
 
@@ -141,8 +143,8 @@ nav a:hover {
 }
 
 .logo {
-  size: 200px;
-  margin-bottom: 20px; 
+  size: 60%;
+  margin-bottom: 40px; 
 }
   #featured {
     background-image: url("img/60.jpg");
