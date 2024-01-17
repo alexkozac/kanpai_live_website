@@ -677,6 +677,42 @@ li {
 }
 
 
+/* Media query for TV */
+@media screen and (min-width: 1200px) {
+  .container {
+      width: 30%;
+  }
+
+  .feature {
+      margin: 30px;
+  }
+
+  
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 767px) {
+  .container {
+      width: 100%;
+  }
+
+  .date {
+      font-size: 1.5rem;
+  }
+
+  .nav a {
+      font-size: 1.5rem;
+      padding: 10px 10px;
+  }
+
+  .feature {
+      margin: 10px;
+  }
+
+  
+}
+
+
 
   
 
