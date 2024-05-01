@@ -1,9 +1,6 @@
 Kanpai Live Website is a product of a two days school hackathon
 
-Description:
 Welcome to the Kanpai Live Website repository! This project is a collaborative effort aimed at creating an engaging and visually appealing platform for Kanpai Live, a virtual event series celebrating Japanese culture, cuisine, and entertainment. Whether you're a fan of Japanese cuisine, intrigued by its rich cultural heritage, or simply seeking entertainment, Kanpai Live has something for everyone.
-
-Features:
 
 Explore upcoming events: Discover the latest happenings and plan your schedule accordingly.
 Learn about Japanese culture: Dive deep into the diverse aspects of Japanese culture through articles, videos, and interactive content.
